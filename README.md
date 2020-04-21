@@ -2,7 +2,7 @@
 
 Jogo de plataforma criado em Unity para a materia de Jogos Digitais do Insper.
 
-O código do jogo pode ser visto na branch master deste repositório e a versão de WebGL pode ser encontrada na branch gh-pages.
+O código do jogo pode ser visto na branch [master](https://github.com/decoejz/save_the_shabat/) deste repositório e a versão de WebGL pode ser encontrada na branch [gh-pages](https://github.com/decoejz/save_the_shabat/tree/gh-pages).
 
 ## Objetivos do jogo
 
